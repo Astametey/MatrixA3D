@@ -1,0 +1,3 @@
+namespace MA {
+	void sayHello();
+}
